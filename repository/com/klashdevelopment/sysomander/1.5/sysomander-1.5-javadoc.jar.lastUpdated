@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 30 16:39:13 PDT 2022
+https\://repo.codemc.io/repository/maven-snapshots/.lastUpdated=1658339851209
+https\://repo.maven.apache.org/maven2/.lastUpdated=1659224353889
+https\://repo.codemc.io/repository/maven-snapshots/.error=
+https\://jitpack.io/.error=
+https\://repo.papermc.io/repository/maven-public/.lastUpdated=1659224353448
+https\://repo.maven.apache.org/maven2/.error=
+https\://jitpack.io/.lastUpdated=1659224353580
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1659224353835
+https\://repo.papermc.io/repository/maven-public/.error=
