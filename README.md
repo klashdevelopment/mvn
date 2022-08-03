@@ -21,7 +21,7 @@ Implement:
    `GID: com.klashdevelopment`<br>
    `AID: sysomander`<br>
    `VER: 1.5`<br>
-- Sysomander<br>
+- KlashItemSystem<br>
    `GID: com.klashdevelopment.klashnetwork`<br>
    `AID: KlashItemSystem`<br>
    `VER: 1.0`<br>
