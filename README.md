@@ -19,5 +19,9 @@ Implement:
 ## current public adds:
 - Sysomander<br>
    `GID: com.klashdevelopment`<br>
-   `AID: sysomander__`<br>
+   `AID: sysomander`<br>
    `VER: 1.5`<br>
+- Sysomander<br>
+   `GID: com.klashdevelopment.klashnetwork`<br>
+   `AID: KlashItemSystem`<br>
+   `VER: 1.0`<br>
