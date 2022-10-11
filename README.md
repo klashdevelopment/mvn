@@ -25,3 +25,7 @@ Implement:
    `GID: com.klashdevelopment.klashnetwork`<br>
    `AID: KlashItemSystem`<br>
    `VER: 1.0`<br>
+- KlashItemSystem<br>
+   `GID: com.klashdevelopment`<br>
+   `AID: dbRafter`<br>
+   `VER: 1.0`<br>
