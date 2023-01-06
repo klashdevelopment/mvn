@@ -29,7 +29,7 @@ Implement:
    `GID: com.klashdevelopment.klashnetwork`<br>
    `AID: KlashItemSys`<br>
    `VER: 1.1`<br>
-- CriticalCore [Download JAR](https://github.com/klashdevelopment/mvn/blob/main/repository/com/klashdevelopment/CriticalCore/1.0/KlashItemSys-1.0.jar?raw=true)<br>
+- CriticalCore [Download JAR](https://github.com/klashdevelopment/mvn/blob/main/repository/com/klashdevelopment/CriticalCore/1.0/CriticalCore-1.0.jar?raw=true)<br>
    `GID: com.klashdevelopment`<br>
    `AID: CriticalCore`<br>
    `VER: 1.0`<br>
