@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 06 10:12:00 PST 2023
+https\://repo.codemc.io/repository/maven-snapshots/.lastUpdated=1673028720259
+https\://repo.maven.apache.org/maven2/.lastUpdated=1673028720398
+https\://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/.error=
+https\://repo.codemc.io/repository/maven-snapshots/.error=
+https\://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/.lastUpdated=1673028719997
+https\://repo.papermc.io/repository/maven-public/.lastUpdated=1673028719391
+https\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1673028719734
+https\://repo.papermc.io/repository/maven-public/.error=
