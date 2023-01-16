@@ -1,14 +1,18 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Dec 08 17:08:32 PST 2022
+#Sun Jan 15 15:37:07 PST 2023
+https\://repo.codemc.io/repository/maven-snapshots/.lastUpdated=1673825827174
 https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
-https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1670547770052
-https\://jitpack.io/.error=
-https\://jitpack.io/.lastUpdated=1670548112627
-https\://oss.sonatype.org/content/groups/public/.error=
-https\://oss.sonatype.org/content/groups/public/.lastUpdated=1670547770406
 https\://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/.error=
-https\://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/.lastUpdated=1670547770611
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1673825826501
 https\://repo.codemc.io/repository/maven-snapshots/.error=
-https\://repo.codemc.io/repository/maven-snapshots/.lastUpdated=1670548112823
+https\://jitpack.io/.error=
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://libraries.minecraft.net/.error=
+https\://libraries.minecraft.net/.lastUpdated=1673141919044
+https\://repo.maven.apache.org/maven2/.lastUpdated=1673825827223
+https\://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/.lastUpdated=1673732447848
 https\://repo.maven.apache.org/maven2/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1670547770671
+https\://repo.papermc.io/repository/maven-public/.lastUpdated=1673141918172
+https\://jitpack.io/.lastUpdated=1673825826959
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1673825826830
+https\://repo.papermc.io/repository/maven-public/.error=
