@@ -6,13 +6,13 @@ No problem if your using eclipse! Simply scroll down to the bottom of the page, 
 
 ### Using Maven
 Implement:
-```
+```xml
 <repository>
    <id>klashdevelopment</id>
    <url>https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/</url>
 </repository>
 ```
-```
+```xml
 <dependency>
    <groupId>GID</groupId>
    <artifactId>AID</artifactId>
