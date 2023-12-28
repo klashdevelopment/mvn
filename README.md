@@ -12,15 +12,18 @@ Implement:
    <url>https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/</url>
 </repository>
 ```
+
+## Projects
+### Caramel
 ```xml
 <dependency>
-   <groupId>GID</groupId>
-   <artifactId>AID</artifactId>
-   <version>VER</version>
+   <groupId>dev.klash</groupId>
+   <artifactId>Caramel</artifactId>
+   <version>1.0.0</version>
 </dependency>
 ```
 
-## current public adds:
+## Deprecated Projects
 - Sysomander [Download JAR](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/com/klashdevelopment/sysomander/1.5/sysomander-1.5.jar)<br>
    `GID: com.klashdevelopment`<br>
    `AID: sysomander`<br>
