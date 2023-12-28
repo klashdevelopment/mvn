@@ -18,6 +18,7 @@ Implement:
    <groupId>dev.klash</groupId>
    <artifactId>Caramel</artifactId>
    <version>1.0.0</version>
+   <scope>provided</scope>
 </dependency>
 ```
 
