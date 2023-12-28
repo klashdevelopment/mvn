@@ -1,9 +1,6 @@
 # mvn repo
 ## The Public KlashDevelopment Maven Repository!
 
-### Using Eclipse/Direct JAR Libraries?
-No problem if your using eclipse! Simply scroll down to the bottom of the page, and in the "current public adds" section click "Download JAR" next to the project you want.
-
 ### Using Maven
 Implement:
 ```xml
@@ -15,6 +12,7 @@ Implement:
 
 ## Projects
 ### Caramel
+[JAR Download for Local Use](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/dev/klash/Caramel/Caramel-1.0.0.jar)<br>
 ```xml
 <dependency>
    <groupId>dev.klash</groupId>
