@@ -12,7 +12,8 @@ Implement:
 
 ## Projects
 ### Caramel
-[JAR Download for Local Use](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/dev/klash/Caramel/Caramel-1.0.0.jar)<br>
+[JAR Download](https://github.com/klashdevelopment/Caramel/tags/latest)<br>
+[Docs](https://pages.klash.dev/Caramel)<br>
 ```xml
 <dependency>
    <groupId>dev.klash</groupId>
