@@ -15,12 +15,7 @@ Implement:
 [JAR Download](https://github.com/klashdevelopment/Caramel/tags/latest)<br>
 [Docs](https://pages.klash.dev/Caramel)<br>
 ```xml
-<dependency>
-   <groupId>dev.klash</groupId>
-   <artifactId>Caramel</artifactId>
-   <version>1.1.0</version>
-   <scope>provided</scope>
-</dependency>
+Please see the Caramel documentation for the latest import.
 ```
 
 ## Deprecated Projects
