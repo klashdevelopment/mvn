@@ -1,0 +1,9 @@
+/* Klash Legacy from https://legacy.klash.dev/ */
+@font-face {
+    font-family: "KlashLegacy";
+    src: url("https://raw.githack.com/klashdevelopment/mvn/main/fonts/KlashLegacy.ttf");
+}
+@font-face {
+    font-family: "KlashLegacyMono";
+    src: url("https://raw.githack.com/klashdevelopment/mvn/main/fonts/KlashLegacyMono.ttf");
+}
