@@ -1,5 +1,5 @@
 # mvn repo
-## The Public KlashDevelopment Maven Repository!
+## Official Maven & Storage for Klash
 
 ### Using Maven
 Implement:
